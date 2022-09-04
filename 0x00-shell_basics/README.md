@@ -1,1 +1,1 @@
-the contents list of your current repository
+The contents list of your current repository
